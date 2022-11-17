@@ -1,5 +1,5 @@
 # Juan A. Barrera
-
+This is my personal site that I will use to upload some projects and blog post.
 
 ### Credits :bulb:
 * [What a Theme](https://github.com/thedevslot)
