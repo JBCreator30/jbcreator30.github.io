@@ -1,4 +1,5 @@
 # Juan A. Barrera
+![Avatar!](assets/images/Foto Personal.jpg)
 This is my personal site that I will use to upload some projects and blog post.
 
 ### Credits :bulb:
