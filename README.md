@@ -1,5 +1,5 @@
 # Juan A. Barrera
-![Avatar]([assets/images/Personal Foto.jpg)](https://github.com/JBCreator30/jbcreator30.github.io/blob/main/assets/images/Personal%20Foto.jpg?raw=true)
+![assets/images/Personal Foto.jpg)](https://github.com/JBCreator30/jbcreator30.github.io/blob/main/assets/images/Personal%20Foto.jpg?raw=true)
 *This is my personal site that I will use to upload some projects and blog post.
 
 ### Credits :bulb:
