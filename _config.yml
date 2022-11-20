@@ -9,7 +9,7 @@ baseurl:
 # Title of the Site
 title: Juan A. Barrera
 # Description of the Site
-description: Personal Blog
+description: Father, Maker, Computer Engineer, Geek, Philoist
 # URL of Image of the Site
 site-image: /jbcreator30.github.io/assets/images/bkgnd.jpg
 # Keywords of the Site
@@ -23,10 +23,10 @@ heroimage: !/jbcreator30.github.io/assets/images/bkgnd.jpg
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
 email: jbarrera30@live.com
-facebook_username: /
+facebook_username: Juan.Arisai.Barrera
 twitter_username: /
 instagram_username: / 
-linkedin_username: /
+linkedin_username: juan-barrera-7b089a238
 github_username:  JBCreator30
 youtube_channel_id: /
 reddit_username: /
